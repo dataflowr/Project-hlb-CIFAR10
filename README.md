@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+
+- read the code and the blog [How to Train Your ResNet](https://myrtle.ai/learn/how-to-train-your-resnet/)
+- run an ablation study to understand the gains in performance.
+
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hi_tysam.svg?style=social&label=Follow%20%40TySam_And)](https://twitter.com/hi_tysam)
 
 ## CIFAR10 hyperlightspeedbench
